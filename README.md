@@ -22,7 +22,7 @@ admin
 特点：
 MTK全家桶破解支持KVR  
 已测试机型：  
-JDC-1 KR
+JDC-1 KR 暂时能用的状态,功能偏少,
 京东云一代JDC-1需要修改Padavan/trunk/configs/templates文件夹下的JDC-1.config第11行>>CONFIG_TOOLCHAIN_DIR=/opt/rt-n56u/toolchain-mipsel改成你自己实际的路径!~
 
 KVR组网需要把所有路由器都刷上支持KVR（至少要支持K）的固件，并把wifi名称和密码设成一样。信道建议岔开，一般会自动岔开不用管，也可以手动指定。除了作为主路由的路由器以外，其他路由器设置成AP模式。
