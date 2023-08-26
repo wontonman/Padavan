@@ -45,7 +45,7 @@ sh dl_toolchain.sh
 # 转到编译文件夹
 cd /home/adiawoo/Padavan/trunk
 # 开始编译
-fakeroot ./build_firmware_modify JDC-01
+fakeroot ./build_firmware_modify JDC-1
 # 脚本第一个参数为路由型号，在trunk/configs/templates/中
 # 编译好的固件在trunk/images里
 # 首次编译完成后，如果需要再次编译其它固件，需要执行清理脚本：
