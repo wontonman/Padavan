@@ -33,7 +33,7 @@ sudo apt install unzip libtool-bin curl cmake gperf gawk flex bison nano xxd \
     libmpc-dev libmpfr-dev libncurses5-dev libltdl-dev wget libc-dev-bin
 # 拉取源码    
 git clone --depth=1 https://github.com/wontonman/Padavan.git
-# 准备工具链(下面的用户名替换成你自己的)
+# 准备工具链(下面的用户名adiawoo替换成你自己的)
 cd /home/adiawoo/Padavan/toolchain-mipsel
 # （推荐）使用脚本下载预编译的工具链：
 sh dl_toolchain.sh
