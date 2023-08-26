@@ -45,7 +45,7 @@ sh dl_toolchain.sh
 # 或者，也可以从源码编译工具链，这需要一些时间：我使用这种方式
 ./clean_toolchain
 ./build_toolchain
-开始编译
+# 开始编译
 cd /home/adiawoo/Padavan/trunk
 fakeroot ./build_firmware_modify JDC-01
 # 脚本第一个参数为路由型号，在trunk/configs/templates/中
