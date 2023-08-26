@@ -1,8 +1,5 @@
-叉自
-https://github.com/sunnyguhz/Padavan
-
+叉自https://github.com/sunnyguhz/Padavan
 以下附上keke和其他五位大神的源码地址供参考：
-
 https://github.com/vb1980/Padavan-KVR  
 https://github.com/keke1023/Padavan  
 https://github.com/hanwckf/rt-n56u  
@@ -24,11 +21,10 @@ MTK全家桶破解支持KVR
 已测试机型：  
 JDC-1 KR 暂时能用的状态,功能偏少,
 京东云一代JDC-1需要修改Padavan/trunk/configs/templates文件夹下的JDC-1.config第11行>>CONFIG_TOOLCHAIN_DIR=/opt/rt-n56u/toolchain-mipsel改成你自己实际的路径!~
-
 KVR组网需要把所有路由器都刷上支持KVR（至少要支持K）的固件，并把wifi名称和密码设成一样。信道建议岔开，一般会自动岔开不用管，也可以手动指定。除了作为主路由的路由器以外，其他路由器设置成AP模式。
 最后，你的手机需要支持KVR漫游。目前我手上的手机漫游效果：苹果=红米Note8pro>RealmeGTneo，华为/荣耀可能不能漫游或者漫游效果较差（不确定，他们之前自己官方这么说的）
 看信道用wifianalyzer，测试漫游效果用wifi测评大师，查看KVR支持情况用win10电脑上的winfi
-Ubuntu18.0.4.6LTS下编译教程
+# Ubuntu18.0.4.6LTS下编译教程
 # 安装依赖
 sudo apt update
 sudo apt install unzip libtool-bin curl cmake gperf gawk flex bison nano xxd \
