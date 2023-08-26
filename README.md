@@ -42,8 +42,7 @@ cd /home/adiawoo/Padavan/toolchain-mipsel
 # （推荐）使用脚本下载预编译的工具链：
 sh dl_toolchain.sh
 # 或者，也可以从源码编译工具链，这需要一些时间：我使用这种方式
-./clean_toolchain
-./build_toolchain
+./clean_toolchain&./build_toolchain
 # 开始编译
 cd /home/adiawoo/Padavan/trunk
 fakeroot ./build_firmware_modify JDC-01
