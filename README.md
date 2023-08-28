@@ -27,9 +27,9 @@ KVR组网需要把所有路由器都刷上支持KVR（至少要支持K）的固�
 # Ubuntu18.0.4.6LTS下编译教程
 # 安装依赖
 sudo apt update
-sudo apt install unzip libtool-bin curl cmake gperf gawk flex bison nano xxd <br>\<br>
-    fakeroot kmod cpio git python3-docutils gettext automake autopoint <br>\<br>
-    texinfo build-essential help2man pkg-config zlib1g-dev libgmp3-dev <br>\<br>
+sudo apt install unzip libtool-bin curl cmake gperf gawk flex bison nano xxd \
+    fakeroot kmod cpio git python3-docutils gettext automake autopoint \
+    texinfo build-essential help2man pkg-config zlib1g-dev libgmp3-dev \
     libmpc-dev libmpfr-dev libncurses5-dev libltdl-dev wget libc-dev-bin
 # 拉取源码    
 git clone --depth=1 https://github.com/wontonman/Padavan.git
