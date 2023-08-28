@@ -29,7 +29,7 @@ KVR组网需要把所有路由器都刷上支持KVR（至少要支持K）的固�
 ```
 sudo apt update
 ```
-# =============
+# --------------------------------------------------------------------------------
 ```
 sudo apt install unzip libtool-bin curl cmake gperf gawk flex bison nano xxd \
     fakeroot kmod cpio git python3-docutils gettext automake autopoint \
