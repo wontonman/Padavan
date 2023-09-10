@@ -27,7 +27,7 @@ KVR组网需要把所有路由器都刷上支持KVR（至少要支持K）的固�
 # Ubuntu18.0.4.6LTS下编译教程
 # 安装依赖
 ```
-sudo apt update
+sudo apt update -y
 ```
 # ---分割线---
 ```
@@ -48,15 +48,6 @@ cd /home/adiawoo/Padavan/toolchain-mipsel
 ```    
 sh dl_toolchain.sh
 ```    
-# 或者，也可以从源码编译工具链，这需要一些时间
-# 清理工具链
-```    
-./clean_toolchain
-```    
-# 编译工具链
-```
-./build_toolchain
-```
 # 转到编译文件夹
 ```
 cd /home/adiawoo/Padavan/trunk
