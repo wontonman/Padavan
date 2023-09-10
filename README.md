@@ -28,15 +28,13 @@ KVR组网需要把所有路由器都刷上支持KVR（至少要支持K）的固�
 # 安装依赖
 ```
 sudo apt update -y
-```
-# ---分割线---
-```
+sudo apt full-upgrade -y
 sudo apt install unzip libtool-bin curl cmake gperf gawk flex bison nano xxd \
     fakeroot kmod cpio git python3-docutils gettext automake autopoint \
     texinfo build-essential help2man pkg-config zlib1g-dev libgmp3-dev \
     libmpc-dev libmpfr-dev libncurses5-dev libltdl-dev wget libc-dev-bin
 ```    
-# 拉取源码    
+# 拉取源码
 ```    
 git clone --depth=1 https://github.com/wontonman/Padavan.git
 ```    
