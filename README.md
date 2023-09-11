@@ -7,8 +7,8 @@ https://github.com/chongshengB/rt-n56u
 https://github.com/padavanonly/rt-n56u  
 https://github.com/immortalwrt/padavan
 固件默认wifi名称
-2.4G：机器名_mac地址最后四位，如K2P_9981
-5G：机器名_5G_mac地址最后四位，如K2P_5G_9981
+2.4G：机器名_mac地址最后四位，如RM2100_9ecc
+5G：机器名_5G_mac地址最后四位，如RM2100_5G_9ecc
 wifi密码
 1234567890
 管理地址
@@ -19,7 +19,7 @@ admin
 特点：
 MTK全家桶破解支持KVR  
 已测试机型：  
-JDC-1 KR 暂时能用的状态,功能偏少,
+JDC-1 RM2100 ----KR 暂时能用的状态,固件功能偏少,属于精简AP
 京东云一代JDC-1需要修改Padavan/trunk/configs/templates文件夹下的JDC-1.config第11行>>CONFIG_TOOLCHAIN_DIR=/opt/rt-n56u/toolchain-mipsel改成你自己实际的路径!~
 KVR组网需要把所有路由器都刷上支持KVR（至少要支持K）的固件，并把wifi名称和密码设成一样。信道建议岔开，一般会自动岔开不用管，也可以手动指定。除了作为主路由的路由器以外，其他路由器设置成AP模式。
 最后，你的手机需要支持KVR漫游。目前我手上的手机漫游效果：苹果=红米Note8pro>RealmeGTneo，华为/荣耀可能不能漫游或者漫游效果较差（不确定，他们之前自己官方这么说的）
