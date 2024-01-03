@@ -1,3 +1,14 @@
+
+明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
+明珠台,http://42.186.64.52:5001/site/gudou.php?id=1351_4500
+明珠台,http://www.namewee.xyz/gudou.php?id=1351_4500$谷豆新源2
+明珠台,http://119.34.132.114:4022/udp/225.1.101.139:7523
+明珠台,http://tebao.cn:8088/gudou-ag.php?id=mzthd&t=w14L5ppGYYzipwiIRQpgdA==&u=17199741419&p=1&pid=&cid=30&d=865372026096088&sid=UvTDcUdnRi8CMlYpibFWzA==&nc=deTQQ4XdwLRh&a=7&v=2&isSuma=1&hlsSessionID=1429613102050774418&srchost=172.16.149.181:8060&gid=gr2Ru1u3u4B5KOJoPSVDFw%3D%3D
+明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
+明珠台,http://tebao.cn:8088/gudou-ag.php?id=mzthd&t=w14L5ppGYYzipwiIRQpgdA==&u=17199741419&p=1&pid=&cid=30&d=865372026096088&sid=UvTDcUdnRi8CMlYpibFWzA==&nc=deTQQ4XdwLRh&a=7&v=2&isSuma=1&hlsSessionID=1429613102050774418&srchost=172.16.149.181:8060&gid=gr2Ru1u3u4B5KOJoPSVDFw%3D%3D$谷豆HD-TB
+明珠台,http://119.34.132.114:4022/udp/225.1.101.139:7523
+
+明珠台,http://lu1.cc/tv/php/gudou.php?id=mzt
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8?zgangd
 明珠台,http://49.235.110.121:9090/daili/gudo.php?id=mzthd
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
